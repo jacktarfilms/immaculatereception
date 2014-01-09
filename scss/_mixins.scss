@@ -1,0 +1,42 @@
+@mixin transition($trans: all 150ms ease) {
+		-moz-transition: $trans;
+		-ms-transition: $trans;
+		-o-transition: $trans;
+		-webkit-transition: $trans;
+		transition: $trans;
+}
+@mixin box-sizing($style) {
+		-moz-box-sizing: $style;
+		-webkit-box-sizing: $style;
+	box-sizing: $style;	
+}
+@mixin border-radius($radius: .3em) {
+		-webkit-border-radius: $radius;
+		-moz-border-radius: $radius;
+		border-radius: $radius;
+}
+@mixin columns($count: 2, $width: 10em, $gap: 1em) {
+		-webkit-column-count: $count;
+		-moz-column-count: $count;
+	column-count: $count;
+		-webkit-column-gap: $gap;
+		-moz-column-gap: $gap;
+	column-gap: $gap;
+		-webkit-column-width: $width;
+		-moz-column-width: $width;
+	column-width: $width;
+}
+
+@mixin prefix($property, $value){
+    -webkit-#{$property}: #{$value};
+    -moz-#{$property}:  #{$value};
+    -ms-#{$property}:  #{$value};
+	-o-#{$property}:  #{$value};
+    #{$property}: #{$value};
+}
+
+@mixin clearfix { 
+	*zoom: 1;
+	&:before { content: ""; display: table; }
+	&:after { content: ""; display: table; clear: both; }
+}
