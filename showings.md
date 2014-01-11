@@ -1,6 +1,8 @@
-1/17/2014 6:30 pm
+1/17/2014 6:30 pm 
 
 Redstone Cinema 1, Park City
+
+[this is a link](http://google.com)
 
 [Ticket Info](http://filmguide.sundance.org/film/14018/the_immaculate_reception)
 ***
