@@ -24,6 +24,6 @@ Yarrow Hotel Theatre, Park City
 ***
 1/17/2014 6:30 pm
 
-Redstone Cinema 1, Park City
+Redstone Cinema 1, poop City
 
 [Ticket Info](http://filmguide.sundance.org/film/14018/the_immaculate_reception)
