@@ -1,4 +1,67 @@
 
+06/21/2014 1:00 pm
+ 
+OAK CLIFF FILM FESTIVAL 2013
+NARRATIVE SHORTS 1
+The Kessler Theatre , Dallas, texas, USA
+ 
+[Ticket Info](http://www.prekindle.com/festivalfeature/id/23390935326279886)
+***
+06/19/2014 7:30 pm
+ 
+COLUMBIA UNIVERSITY FILM FESTIVAL 2014
+JURY SELECTS SCREENING - LOS ANGELES
+Academy of Motion Picture Arts and Sciences, Linwood Dunn Theater, Los Angeles, California, USA
+
+[Ticket Info]
+***
+06/17/2014 7:30 pm
+ 
+NORTHSIDE FESTIVAL 2014
+indieScreen, Brooklyn, New York, USA
+ 
+[Ticket Info](http://northsidefestival.com/film/forty-years-from-yesterday/)
+***
+05/10/2014 4:00 pm
+ 
+MARYLAND FILM FESTIVAL 2014
+SHORTS: CHARACTER STUDY
+The Windup Space, Baltimore, Maryland, USA
+ 
+[Ticket Info](http://www.md-filmfest.com/festival/film-guide/94)
+***
+05/09/2014 3:30 pm
+ 
+MARYLAND FILM FESTIVAL 2014
+SHORTS: CHARACTER STUDY
+UB Business Center, Baltimore, Maryland, USA
+ 
+[Ticket Info](http://www.md-filmfest.com/festival/film-guide/94)
+***
+05/08/2014 7:00 pm
+ 
+COLUMBIA UNIVERSITY FILM FESTIVAL 2014
+AWARDS NIGHT
+Symphony Space, New York, New York - USA
+ 
+[Ticket Info](http://cufilmfest.com/?page_id=13#Awards_Night)
+***
+05/07/2014 7:00 pm
+ 
+COLUMBIA UNIVERSITY FILM FESTIVAL 2014
+STUDENT SELECT
+Miller Theatre, Columbia University, New York, New York - USA
+ 
+[Ticket Info](http://cufilmfest.com/?page_id=13)
+***
+05/02/2014 9:00 pm
+ 
+COLUMBIA UNIVERSITY FILM FESTIVAL 2014
+PROGRAM B
+Walter Reade Theatre, New York, New York - USA
+ 
+[Ticket Info](http://cufilmfest.com/?p=736)
+***
 4/18/2014 6:45 pm
  
 NASHVILLE FILM FESTIVAL 2014
