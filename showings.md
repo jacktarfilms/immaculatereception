@@ -17,7 +17,8 @@ JURY SELECTS SCREENING - LOS ANGELES
 
 Academy of Motion Picture Arts and Sciences, Linwood Dunn Theater, Los Angeles, California, USA
 
-[Ticket Info]
+
+Ticket Info
 ***
 06/17/2014 7:30 pm
  
