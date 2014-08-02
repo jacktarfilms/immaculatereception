@@ -1,4 +1,34 @@
+09/17/2014 12:30 pm
+ 
+ENCOUNTERS FILM FESTIVAL
+Watershed Cinema 3, Bristol, United Kingdom 
 
+[Ticket Info](https://uk.patronbase.com/_Encounters/Productions/105Q/Performances)
+***
+07/11/2014 10:30 pm
+ 
+VILA DO CONDE FILM FESTIVAL  
+
+Teatro Municipal ROOM 2, Vila Do Conde, Portugal 
+
+[Ticket Info](http://festival.curtas.pt/festival-en/info/)
+***
+07/08/2014 10:30 pm
+ 
+VILA DO CONDE FILM FESTIVAL  
+
+Teatro Municipal ROOM 1, Vila Do Conde, Portugal 
+
+[Ticket Info](http://festival.curtas.pt/festival-en/info/)
+***
+06/28/2014 10:30 am
+ 
+FREDERICK FILM FESTIVAL
+
+Weinber Center for the Arts, Frederick, Maryland USA
+
+[Ticket Info](http://www.weinbergcenter.org/5809/frederick-film-festival-2/)
+***
 06/21/2014 1:00 pm
  
 OAK CLIFF FILM FESTIVAL 2014
