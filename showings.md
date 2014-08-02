@@ -1,10 +1,10 @@
-09/17/2014 12:30 pm
+09/17/2014 02:30 pm
  
 ENCOUNTERS FILM FESTIVAL
 
 Watershed Cinema 3, Bristol, United Kingdom 
 
-[Ticket Info](https://uk.patronbase.com/_Encounters/Productions/105Q/Performances)
+[Ticket Info](https://uk.patronbase.com/_Encounters/Productions/105T/Performances)
 ***
 07/11/2014 10:30 pm
  
