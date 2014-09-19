@@ -1,3 +1,14 @@
+10/17/2014 09:00 pm
+
+10/18/2014 06:30 pm
+
+WOODSTOCK FILM FESTIVAL
+
+Mountain View Studio, 20 Mountain View Ave, Woodstock, NY
+
+[(Ticket Info)](http://www.woodstockfilmfestival.com/ticketinfo.php) 
+
+
 09/17/2014 02:30 pm
  
 ENCOUNTERS FILM FESTIVAL
