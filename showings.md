@@ -6,9 +6,20 @@ WOODSTOCK FILM FESTIVAL
 
 Mountain View Studio, 20 Mountain View Ave, Woodstock, NY
 
-[(Ticket Info)](http://www.woodstockfilmfestival.com/ticketinfo.php) 
+[Ticket Info](http://www.woodstockfilmfestival.com/ticketinfo.php) 
+***
+09/30/2014 09:45pm
 
+10/1/2014 04:15pm
 
+10/3/2014 02pm
+
+MILWAUKEE FILM FESTIVAL
+
+Downer Theater, Times Cinema, and Oriental Theater- Milwaukee, WI
+
+[Ticket Info](http://mkefilm.org/calendar/10/?v=guide-grid)
+***
 09/17/2014 02:30 pm
  
 ENCOUNTERS FILM FESTIVAL
