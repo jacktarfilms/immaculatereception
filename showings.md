@@ -1,6 +1,11 @@
-10/23/2014
+10/23/2014 11:15am
 
-10/28/2014
+The Theatres at Canal Place #1
+
+10/28/2014 06:00pm
+
+The Theatres at Canal Place #8
+
 
 New Orleans, LA
 
@@ -10,7 +15,7 @@ TICKET INFO TBA
 ***
 11/13/2014 08:30pm
 
- Odd Fellows Hall, St. Helena 
+Odd Fellows Hall, St. Helena 
 
 11/14/2014 10:00am
 
@@ -22,7 +27,7 @@ Domaine Screening Room, Calistoga
 
 11/16/2014 9:30am
 
- Barrel Room 1870, Yountville 
+Barrel Room 1870, Yountville 
  
  NAPA VALLEY FILM FESTIVAL
  
