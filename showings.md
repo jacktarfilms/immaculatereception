@@ -1,43 +1,38 @@
-10/23/2014 11:15am
-
-The Theatres at Canal Place #1
-
-10/28/2014 06:00pm
-
-The Theatres at Canal Place #8
-
-
-New Orleans, LA
-
-NEW ORLEANS FILM FESTIVAL
-
-TICKET INFO TBA
-***
 11/13/2014 08:30pm
-
-Odd Fellows Hall, St. Helena 
+ 
 
 11/14/2014 10:00am
 
-City Winery, Napa
 
 11/15/2014 8:00pm
 
-Domaine Screening Room, Calistoga 
 
 11/16/2014 9:30am
 
-Barrel Room 1870, Yountville 
- 
- NAPA VALLEY FILM FESTIVAL
- 
+
+NAPA VALLEY FILM FESTIVAL
+
+Odd Fellows Hall, St. Helena; City Winery, Napa; Domaine Screening Room, Calistoga; Barrel Room 1870, Yountville, CA
+
  [Ticket Info](http://napavalleyfilmfest.org/films/narrative-shorts-three)
+***
+10/23/2014 11:15am
+
+
+10/28/2014 06:00pm
+
+
+NEW ORLEANS FILM FESTIVAL
+
+The Theatres at Canal Place, #1 & #8, New Orleans, LA
+
+TICKET INFO TBA
 ***
 09/30/2014 09:45pm
 
 10/1/2014 04:15pm
 
-10/3/2014 02pm
+10/3/2014 02:00pm
 
 MILWAUKEE FILM FESTIVAL
 
