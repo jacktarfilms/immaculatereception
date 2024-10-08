@@ -4,7 +4,7 @@ $(function () {
   var BV = new $.BigVideo();
   BV.init();
   if (!Modernizr.touch) {
-    BV.show('/immaculatereception/img/the_immaculate_reception_-_trailer_640x360.mp4', { ambient: true });
+    BV.show('https://jacktarfilms.github.io/immaculatereception/img/the_immaculate_reception_-_trailer_640x360.mp4', { ambient: true });
   }
 
   //blur video on scroll
