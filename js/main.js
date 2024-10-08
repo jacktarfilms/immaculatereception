@@ -4,7 +4,7 @@ $(function () {
   var BV = new $.BigVideo();
   BV.init();
   if (!Modernizr.touch) {
-    BV.show('/img/the_immaculate_reception_-_trailer_640x360.mp4', { ambient: true });
+    BV.show('../img/the_immaculate_reception_-_trailer_640x360.mp4', { ambient: true });
   }
 
   //blur video on scroll
@@ -61,7 +61,7 @@ $(function () {
 
   //import .md
   $.ajax({
-    url: "/showings.md",
+    url: "../showings.md",
     context: document.body,
     success: function(mdText){
       //where text will be the text returned by the ajax call
